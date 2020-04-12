@@ -4,5 +4,6 @@ yellow
 green
 blue
 violet
+pink
  this is a rainbow
 unicorns are cool
